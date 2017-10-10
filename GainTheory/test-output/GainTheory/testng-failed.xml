@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GainTheory]">
+  <test name="Forgot Password(failed)">
+    <classes>
+      <class name="sc_02.ForgotPassword">
+        <methods>
+          <include name="ForgotPasswordTest"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- sc_02.ForgotPassword -->
+    </classes>
+  </test> <!-- Forgot Password(failed) -->
+</suite> <!-- Failed suite [GainTheory] -->

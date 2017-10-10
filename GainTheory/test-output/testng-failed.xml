@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Gain Theory]">
+  <test name="FunctionalityTest(failed)">
+    <classes>
+      <class name="sc_02.ForgotPassword">
+        <methods>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- sc_02.ForgotPassword -->
+      <class name="sc_01.Access">
+        <methods>
+          <include name="SetUp"/>
+          <include name="TearDown"/>
+          <include name="VerifyingAccess"/>
+        </methods>
+      </class> <!-- sc_01.Access -->
+    </classes>
+  </test> <!-- FunctionalityTest(failed) -->
+</suite> <!-- Failed suite [Gain Theory] -->

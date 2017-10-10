@@ -1,0 +1,16 @@
+<suite name="Gain Theory">
+
+<test name="FunctionalityTest">
+<classes>
+<class name="sc_01.Access"/>
+</classes>
+</test>
+
+<test name="Fuctionality Test2">
+<classes>
+<class name="sc_02.ForgotPassword"/>
+</classes>
+</test>
+
+</suite>
+

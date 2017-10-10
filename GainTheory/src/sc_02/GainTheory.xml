@@ -1,0 +1,7 @@
+<suite name="GainTheory">
+<test name="Forgot Password">
+<classes>
+<class name="sc_02.ForgotPassword"/>
+</classes>
+</test>
+</suite>
